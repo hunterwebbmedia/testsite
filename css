@@ -1,0 +1,68 @@
+/* Basic styling for the entire page */
+body {
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+/* Styling for the header */
+header {
+	background-color: #006699;
+	color: #fff;
+	padding: 2em;
+	text-align: center;
+}
+
+h1 {
+	font-size: 3em;
+	margin: 0;
+}
+
+/* Styling for the main content */
+main {
+	padding: 2em;
+}
+
+h2 {
+	font-size: 2em;
+	margin-top: 0;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	margin: 0.5em 0;
+}
+
+/* Styling for the pricing section */
+.pricing {
+	background-color: #f2f2f2;
+	padding: 2em;
+	text-align: center;
+}
+
+a {
+	background-color: #006699;
+	color: #fff;
+	display: inline-block;
+	padding: 0.5em 1em;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #003366;
+}
+
+/* Styling for the testimonials section */
+.testimonials {
+	background-color: #e6e6e6;
+	padding: 2em;
+	text-align: center;
+}
+
+blockquote {
+	font-style: italic;
